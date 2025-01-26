@@ -1,6 +1,6 @@
 ---
 layout: home
-permalink: "/pages/"
+permalink: "/"
 title: "Regional <strong>Committee.</strong>"
 description: "A place to drive regional decision making."
 meta_description: "Jekyll Curate is a premium Jekyll blog theme"
