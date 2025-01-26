@@ -1,15 +1,15 @@
 ---
 layout: home
 permalink: "/"
-title: "Curate is a premium portfolio for <strong>Jekyll.</strong>"
-description: "Showcase your projects, work or case studies in style with this markdown powered portfolio theme for Jekyll."
+title: "Committee <strong>Jekyll.</strong>"
+description: "A place to drive local decision making."
 meta_description: "Jekyll Curate is a premium Jekyll blog theme"
-meta_title: Jekyll Curate - Premium Portfolio Theme
+meta_title: Committee
 subscribe: false
 
 projects:
-  heading: "" # "Projects"
-  sub_heading: "" # "A collection of our recent work"
+  heading: "" # "Regional Plan"
+  sub_heading: "" # "Regional Plan"
   limit: 4
   sort: date # date | weight
   view_more_button_text: "" # "More Projects"
