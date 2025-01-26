@@ -3,7 +3,7 @@ main:
     url: /
     weight: 1
   - name: Responsive Regional Plan
-    url: /RRP/
+    url: /projects/
     weight: 2
     child:
       - name: "Project Layout 1"

@@ -1,7 +1,7 @@
 ---
 layout: project-right
 title: "Example 1"
-description: "content here"
+description: "City of Long Beach"
 date: 2018-11-03T10:20:00Z
 weight: 1
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
@@ -11,9 +11,9 @@ client: "content here"
 role: "content here"
 gallery:
   - image: "/assets/images/gen/projects/project-1-1.webp"
-    caption: "<strong>Above:</strong> North easterly aspect showing curved design"
+    caption: "<strong>Above:</strong> Content here about local jurisdictions."
   - image: "/assets/images/gen/projects/project-1-2.webp"
-    caption: "<strong>Above:</strong> Rear offices square design in contrast"
+    caption: "<strong>Above:</strong> Content here about local jurisdictions"
 gallery_limit: 2
 ---
 

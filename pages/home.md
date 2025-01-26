@@ -1,8 +1,8 @@
 ---
 layout: home
 permalink: "/"
-title: "Committe <strong>Regional.</strong>"
-description: "A place to drive local decision making."
+title: "Regional <strong>Committee.</strong>"
+description: "A place to drive regional decision making."
 meta_description: "Jekyll Curate is a premium Jekyll blog theme"
 meta_title: Committee
 subscribe: false
