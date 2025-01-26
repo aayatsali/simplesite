@@ -1,14 +1,14 @@
 ---
 layout: home
 permalink: "/"
-title: "Committee <strong>Jekyll.</strong>"
+title: "<strong>Regional Committee.</strong>"
 description: "A place to drive local decision making."
 meta_description: "Jekyll Curate is a premium Jekyll blog theme"
 meta_title: Committee
 subscribe: false
 
 projects:
-  heading: "" # "Regional Plan"
+  heading: "" # "Responsive Regional Plan"
   sub_heading: "" # "Regional Plan"
   limit: 4
   sort: date # date | weight

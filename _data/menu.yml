@@ -2,8 +2,8 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Projects
-    url: /projects/
+  - name: Responsive Regional Plan
+    url: /RRP/
     weight: 2
     child:
       - name: "Project Layout 1"
@@ -26,7 +26,7 @@ main:
         icon_darkmode: "/assets/images/icons/wireframe-8-white.svg"
         description: "Top layout"
         url: /projects/project-4/
-  - name: Blog
+  - name: Contribute
     url: /blog/
     weight: 2
   - name: About

@@ -1,14 +1,14 @@
 ---
 layout: project-right
-title: "Brutalist Office Building"
-description: "In contrast subsymbolic processing specifies no such rules a priori and relies on emergent properties of processing units"
+title: "Example 1"
+description: "content here"
 date: 2018-11-03T10:20:00Z
 weight: 1
 thumbnail: "/assets/images/gen/projects/project-1-1-thumbnail.webp"
 image: "/assets/images/gen/projects/project-1-2.webp"
-categories: ["Development"]
-client: "Dubai Star"
-role: "Building Designer"
+categories: ["Progress"]
+client: "content here"
+role: "content here"
 gallery:
   - image: "/assets/images/gen/projects/project-1-1.webp"
     caption: "<strong>Above:</strong> North easterly aspect showing curved design"
@@ -17,8 +17,8 @@ gallery:
 gallery_limit: 2
 ---
 
-Architecture is both the process and the product of planning, designing, and constructing buildings or other structures.Architectural works, in the material form of buildings, are often perceived as cultural symbols and as works of art.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. 
 
-The practice, which began in the prehistoric era, has been used as a way of expressing culture for civilizations on all seven continents.
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. 
 
-Architecture began as rural, oral vernacular architecture that developed from trial and error to successful replication. Ancient urban architecture was preoccupied with building religious structures and buildings symbolizing the political power of rulers until Greek and Roman architecture shifted focus to civic virtues.
+Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet.
