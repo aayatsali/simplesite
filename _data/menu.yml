@@ -1,6 +1,6 @@
 main:
   - name: Home
-    url: /home/
+    url: /
     weight: 1
   - name: Responsive Regional Plan
     url: /projects/
