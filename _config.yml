@@ -11,6 +11,14 @@ highlighter: rouge
 plugins:
   - jekyll-environment-variables
   - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - jekyll-seo-tag
+  - jekyll-coffescript
+  - jekyll commonmark-ghpages
+  - jekyll-gist
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
 
 paginate: 6
 paginate_path: "/blog/page/:num"
