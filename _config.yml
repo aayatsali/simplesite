@@ -2,10 +2,11 @@
 # Jekyll Config
 # --------------------
 baseurl: "https://aayatsali.github.io/simplesite/"
-url: ""
 permalink: pretty
 markdown: kramdown
 highlighter: rouge
+url: "https://aayatsali.github.io/simplesite/" # the base hostname & protocol for your site
+
 
 # Plugins
 plugins:
